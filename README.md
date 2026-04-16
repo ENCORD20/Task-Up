@@ -47,6 +47,9 @@
    Pop open your preferred browser and visit:  
    `http://localhost:3000`
 
+5. **Live Deployed Link:**
+   https://task-up-mu.vercel.app/
+
 ## 📁 Code Architecture Overview
 - `app/page.tsx`: The primary state controller that powers the lists, drag listeners, and overarching layout.
 - `components/TaskCard.tsx`: The individual UI tiles that house your tasks, their descriptions, tags, edit, and deletion listeners.
